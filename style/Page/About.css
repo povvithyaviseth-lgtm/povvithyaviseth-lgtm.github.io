@@ -1,0 +1,15 @@
+.title
+{
+    align-items: center;
+    margin: 10px
+}
+
+.title h1
+{
+    margin-bottom: 5px;
+}
+
+.title p
+{
+    margin-top: 0;
+}
